@@ -132,7 +132,7 @@
       "email": "shivraj@sahusoft.com"
     }
   ],
-  "name": "native-base",
+  "name": "native-base-custom",
   "optionalDependencies": {},
   "peerDependencies": {
     "react-native": ">=0.43.0",
@@ -143,7 +143,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekyAnts/NativeBase.git"
+    "url": "https://github.com/honghai78/native-base-custom.git"
   },
   "rnpm": {
     "assets": [
